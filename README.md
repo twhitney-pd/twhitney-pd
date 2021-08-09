@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @twhitney-pd
+- 👀 I work at pagerduty on the SRE Cloud Infrasturcure team
+- 🌱 I’m currently learning ... all the things 
